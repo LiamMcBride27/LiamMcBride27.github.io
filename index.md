@@ -28,11 +28,12 @@ Below are five potential data sources for my final project, each with a link, a 
 
 ## Where's Schueller?
 
+## Where's Schueller?
+
 Below is a live Plotly visualization from my recent analysis of Schueller's geolocation data.
 
-<!-- The iframe for the Plotly visualization will go here later -->
-
-<p>Loading visualization...</p>
+<iframe src="wheres_schueller.html" width="100%" height="600" style="border:none;">
+</iframe>
 
 ---
 
