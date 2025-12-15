@@ -6,7 +6,8 @@ title: "Home"
 # My Data Analysis Project
 
 ## Data Science Project
-- [Project website](https://LiamMcBride27.github.io/final-project-EVS/) 
+- [Washington State EV Analysis](https://LiamMcBride27.github.io/final-project-EVS/)
+- Comparing the rate of change of electric vehicles and charging stations to major legislation over time
 
 ## Data Sources and Project Ideas
 
